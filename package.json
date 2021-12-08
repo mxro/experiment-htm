@@ -1,0 +1,25 @@
+{
+  "name": "experiment-htm",
+  "version": "1.0.0",
+  "description": "Exploring the HTM Framework and Preact",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxro/experiment-htm.git"
+  },
+  "author": "Max Rohde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxro/experiment-htm/issues"
+  },
+  "homepage": "https://github.com/mxro/experiment-htm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "htm": "^3.1.0",
+    "preact": "^10.6.2",
+    "preact-render-to-string": "^5.1.19"
+  }
+}
